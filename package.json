@@ -1,0 +1,12 @@
+{
+  "name": "testescalculadora",
+  "version": "1.0.0",
+  "description": "Calculadora para aula de Testes de automação",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
